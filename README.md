@@ -1,13 +1,13 @@
-# visuals
+# Basic Quil Metronome
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure Quil project template that serves as a visual Hello World.
 
 ## Usage
 
-FIXME
+Run me via nREPL, using the *run-sketch* function in core.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Pas de Chocolat, LLC
 
 Distributed under the Eclipse Public License, the same as Clojure.
