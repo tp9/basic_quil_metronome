@@ -10,7 +10,7 @@
 
 (defn run-sketch []
   (qc/defsketch the-sketch
-    :title "Visuals"
+    :title "Hello Metronome"
     :setup dynamic-setup/setup
     :draw dynamic-draw/draw
     :on-close on-close-sketch
