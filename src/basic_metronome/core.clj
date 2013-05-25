@@ -12,7 +12,7 @@
   (qc/defsketch the-sketch
     :title "Hello Metronome"
     :setup dynamic-setup/setup
-    :draw (partial dynamic-draw/draw WIDTH HEIGHT)
+    :draw dynamic-draw/draw
     :on-close on-close-sketch
     :size [WIDTH HEIGHT]))
 
